@@ -1,7 +1,8 @@
 SystemJS.config({
   baseURL: "/",
   paths: {
-    "daily-web-sketch/": "src/",
-    "npm:*": "jspm_packages/npm/*"
+    "github:*": "jspm_packages/github/*",
+    "npm:*": "jspm_packages/npm/*",
+    "daily-web-sketch/": "src/"
   }
 });
