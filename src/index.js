@@ -6,6 +6,7 @@ import 'systemjs-hot-reloader/default-listener.js';
 //     component.setState(m.component.state);
 // }
 
+import './styles.scss!'
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {HelloWorld} from 'daily-web-sketch/component.js';
