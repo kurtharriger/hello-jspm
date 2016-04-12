@@ -2,7 +2,8 @@ SystemJS.config({
   transpiler: "plugin-babel",
   packages: {
     "daily-web-sketch": {
-      "main": "daily-web-sketch.js",
+      "main": "index.js",
+      "format": "esm",
       "meta": {
         "*.js": {
           "loader": "plugin-babel"
