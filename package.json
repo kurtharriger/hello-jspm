@@ -1,0 +1,12 @@
+{
+  "jspm": {
+    "name": "daily-web-sketch",
+    "main": "daily-web-sketch.js",
+    "directories": {
+      "lib": "src"
+    },
+    "devDependencies": {
+      "plugin-babel": "npm:systemjs-plugin-babel@^0.0.9"
+    }
+  }
+}
