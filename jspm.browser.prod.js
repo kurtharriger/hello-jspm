@@ -5,5 +5,5 @@ SystemJS.config({
     "npm:*": "jspm_packages/npm/*",
     "daily-web-sketch/": "src/"
   },
-  trace: true
+  production: true
 });
