@@ -2,5 +2,3 @@ node_modules/
 jspm_packages/
 build.js
 build.js.map
-bundle.js
-bundle.js.map
